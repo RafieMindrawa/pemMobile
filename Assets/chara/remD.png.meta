@@ -1,0 +1,124 @@
+fileFormatVersion: 2
+guid: 859c30247a4c89a4bb1f83066d8d4613
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: remD_0
+    21300002: remD_1
+    21300004: remD_2
+    21300006: remD_3
+    21300008: remD_4
+    21300010: remD_5
+    21300012: remD_6
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: remD_0
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 284
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: remD_1
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 0
+        width: 287
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: remD_2
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 0
+        width: 266
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: remD_3
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 23
+        width: 277
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: remD_4
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 7
+        width: 279
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: remD_5
+      rect:
+        serializedVersion: 2
+        x: 2074
+        y: 7
+        width: 263
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: remD_6
+      rect:
+        serializedVersion: 2
+        x: 2454
+        y: 1
+        width: 271
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
